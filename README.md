@@ -1,3 +1,5 @@
 # Kokoa clone 2022 update
 
-css got so much better!
+HTML & CSS are so much fun!
+
+Let's take this course in 2 week!
